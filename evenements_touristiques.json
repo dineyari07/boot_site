@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nom": "Festival International du Vaudou",
+        "lieu": "Ouidah",
+        "description": "Un festival annuel célébrant la culture et les traditions vaudou au Bénin."
+    },
+    {
+        "id": 2,
+        "nom": "Fête de l'Indépendance",
+        "lieu": "Cotonou",
+        "description": "Célébration de l'indépendance du Bénin avec des défilés, des concerts et des activités culturelles."
+    }
+]
